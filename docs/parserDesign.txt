@@ -1,0 +1,5 @@
+1. At any time, the parser knows what to expect
+2. Read the tokens with lookahead of K
+3. If the pattern does not match the expectation, throw error
+4. Determine the next  Node
+5. Call the parser of the node to parse the next set of tokens

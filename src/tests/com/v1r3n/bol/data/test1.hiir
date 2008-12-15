@@ -1,0 +1,12 @@
+#begin
+$name = "viren baraiya"
+$age = 32
+$skills = [language='java c c++' tools='eclipse' os='osx']
+print details on $name show $skills and $age me.
+$salaryfactor = fetch the salary factor for the $skills.
+$basesalary = get base salary for $name.
+$yearswithcompany = find the number of years with company for $name.
+$newsalary = $basesalary + ($salaryfactor * 100 / $basesalary) + ($salaryfactor * $yearswithcompany/100)
+if {$newsalary > (2000+4000)} then {notify the manager for $name with new salary details.} else {make entry in the hr database for $name with $newsalary.}.
+if {this line is true. > other line.} then {hi there.}.
+#end

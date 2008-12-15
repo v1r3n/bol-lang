@@ -1,0 +1,16 @@
+#begin
+$person as Person;
+$value = one + two;
+$value = viren ;
+execute in parallel (one) (two) and (three) one;
+$age = 0;
+;
+read data from file for symbol $symbol file;
+$pe_ratio = calculate pe ratio for $symbolw;
+$factor = (get moving average for last one week) * ($pe_ratio);
+print 0 to 100 numbers;
+if(a | b) then (statemet1) else (statement2);
+doSomething(2);
+doSomeethingElse([1,2, 'viren']);
+nothing;
+#end
