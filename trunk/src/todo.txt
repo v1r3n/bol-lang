@@ -1,0 +1,11 @@
+1. Identify the statement completion without a "." (if the next token is the end of the parent token or begining of a ...
+
+
+Declaring a variable
+Type var = new Type();
+Object var = Javon.create("typename").set("name","viren");
+Object value = ServiceLocator.find("functionName").invoke(var);
+
+
+$factor = 23 + getfactor;
+Object factor = 
